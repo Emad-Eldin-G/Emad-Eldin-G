@@ -1,4 +1,4 @@
-# Hello Wordl!
+# Hello World!
 
 My name is Emad and I'm a Full Stack Web-Dev
 Currently working for a web startup called: The Computerizer
