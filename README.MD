@@ -9,4 +9,4 @@ Feel free to look around my GitHub repos/projects !
 
 ## Contact Me
 
-email: <omda.g@outlook.com>
+Email: <omda.g@outlook.com>
