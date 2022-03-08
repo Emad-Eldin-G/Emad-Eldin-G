@@ -1,6 +1,6 @@
 # Hello World!
 
-![PC GIF](https://gifer.com/en/Ry6p)
+![PC GIF](https://gifer.com/en/Ry6p.gif)
 
 My name is Emad and I'm a Full Stack Web-Dev
 
