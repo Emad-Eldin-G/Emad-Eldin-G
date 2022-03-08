@@ -10,10 +10,9 @@ Currently working for a web startup called: The Computerizer
 
 Feel free to look around my GitHub repos/projects !
 
-
-</p>
-
-
 ## Contact Me
 
 Email: <omda.g@outlook.com>
+
+</p>
+
