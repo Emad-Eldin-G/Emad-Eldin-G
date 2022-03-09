@@ -1,6 +1,6 @@
 # Hello World!
 
-![PC GIF](tumblr_p05avlHqlt1uy5z3wo1_1280.webp)
+![PC GIF](http://tumblr_p05avlHqlt1uy5z3wo1_1280.webp)
 
 My name is Emad and I'm a Full Stack Web-Dev
 
