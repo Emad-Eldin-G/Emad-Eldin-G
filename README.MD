@@ -20,6 +20,6 @@ Feel free to look around my GitHub repos/projects !
 
 ## Contact Me
 
-Email: <omda.g@outlook.com>
+Email: <omda.g@outlook.com>  
 Linkedin: <https://www.linkedin.com/in/emad-gasser/>
 
