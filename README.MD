@@ -1,10 +1,9 @@
-# Hello World!
+# Sup World!
 
-My name is Emad and I'm a Full Stack Web-Dev specializing in REST-API and Database design
-
+Full Stack Web-Dev specializing in REST-API and Database design
 Currently working for a web startup called: The Computerizer
 
-Feel free to look around my GitHub repos/projects !
+
 
 
 <h2>Skills</h2>
