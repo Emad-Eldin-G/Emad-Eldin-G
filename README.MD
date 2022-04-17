@@ -1,6 +1,6 @@
-# Hello World!
+# Full Stack Web-Dev
 
-Full Stack Web-Dev specializing in REST-API and Database design  
+Specializing in REST-API and Database design  
 
 Currently working for a web startup called: The Computerizer
 
