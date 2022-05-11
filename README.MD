@@ -1,4 +1,4 @@
-# Full Stack Web-Dev
+# Backend Web-Dev
 
 Specializing in REST-API and Database design  
 
