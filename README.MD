@@ -31,6 +31,7 @@ Currently working for a web startup called: @Computerizer
 <img width ='40px' unselectable='True' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'>
 <img width ='40px' unselectable='True' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
 <img width ='40px' unselectable='True' src ='https://oneuptime.com/img/sentry.svg'>
+<img width ='40px' unselectable='True' src ='https://oneuptime.com/img/linux.svg'>
 </h4>
 
 
