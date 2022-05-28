@@ -20,8 +20,8 @@ Currently working for a web startup called: @Computerizer
 <label for="Front">Frontend</label>
 <h4 id="Front">
 <img width ='40px' unselectable='True' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
-<img width ='40px' unselectable='True' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
 <img width ='40px' unselectable='True' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
+<img width ='40px' unselectable='True' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
 <img width ='40px' unselectable='True' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
 </h4>
 
