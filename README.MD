@@ -14,7 +14,7 @@ Currently working for a web startup called: @Computerizer
 <img width ='40px' unselectable='True' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'>
 <img width ='40px' unselectable='True' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'>
 <img width ='40px' unselectable='True' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'>
-<img width ='40px' unselectable='True' src ='https://cdn.freebiesupply.com/logos/large/2x/gunicorn-logo-png-transparent.png'>
+<img width ='60px' unselectable='True' src ='https://cdn.freebiesupply.com/logos/large/2x/gunicorn-logo-png-transparent.png'>
 </h4>  
 
 <label for="Front">Frontend</label>
