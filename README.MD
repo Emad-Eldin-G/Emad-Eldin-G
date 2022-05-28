@@ -2,7 +2,7 @@
 
 Specializing in REST-API and Database design  
 
-Currently working for a web startup called: Computerizer
+Currently working for a web startup called: @Computerizer
 
 
 
