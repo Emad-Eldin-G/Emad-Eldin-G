@@ -32,7 +32,7 @@ Currently working for a web startup called: @Computerizer
 <img width ='40px' unselectable='True' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
 <img width ='40px' unselectable='True' src ='https://oneuptime.com/img/sentry.svg'>
 <img width ='40px' unselectable='True' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png'>
-<img width ='40px' unselectable='True' src ='https://avatars0.githubusercontent.com/u/983927?v=3&s=400'>
+<img width ='37px' unselectable='True' src ='https://avatars0.githubusercontent.com/u/983927?v=3&s=400'>
 </h4>
 
 
