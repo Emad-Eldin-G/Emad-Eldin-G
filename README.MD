@@ -15,6 +15,7 @@ Currently working for a web startup called: @Computerizer
 <img width ='40px' unselectable='True' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'>
 <img width ='40px' unselectable='True' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'>
 <img width ='60px' unselectable='True' src ='https://cdn.freebiesupply.com/logos/large/2x/gunicorn-logo-png-transparent.png'>
+<img width ='60px' unselectable='True' src ='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAY1BMVEX///9KSko+Pj65ubmysrLDw8NCQkI0NDQ6OjrX19eampr4+PhGRkY8PDxRUVH19fXu7u7f399paWmpqanm5uZwcHCTk5NgYGCenp5TU1PAwMB5eXmMjIwvLy+lpaXIyMiDg4OtwzHeAAACFklEQVR4nO3d63KCMBBAYYImgBBErZdaK33/p6w6/W/IdrIGz/cEewYYDHIpCgAAAAAAAAAAAAAAAAAAAAAh1ptmig/teaeye+frKUpz2GgPPcHm6DszlasP2nMHG8vpfXflsdUePUxTR/XdN+NWe/YgbR+3BR9b8aQ9fYhdGR1424qD9vgBPgWBptxpj//cJvoovOsyOBLPkp30lqg9/3NLWWH1+icMCimkUB+FFFKoj0IKKdRHIYUU6qMw/0LrRYUZXKdpTfwFYWP8Snv+AI2py1jVl/b0QVq7iNVozw4AAPA+BL/aop2bhKuupvfRv7zj1d0l1W0cstWTgHOJ7uMQroAl6kuSQuFVDBGf5JYqzUJTp1hgqhZ2+7kXmu/ZF1YUUkghhRRSSCGFFFJIIYUUUkghhRRSSCGFFFJIIYUUUkghhRRSSOFbFS5mXxj/HqxcClvNwCSFxcHNvXCYfWFhFY/ENIXFVS8xUWExOq09NcWdew/DQfCYpYBfpiq8nTSaxTK5RQ7vJAQAAJiJYbSRxrX27EF2PvoJTW+s9vQBbJXF6klgK3oENdUKWKKXBFL4Eiik8PXNv1D08YgsCud/PlyJLibnUCj7/zGHQtFu6rL4ZJRgI3Z9HsunZezqokvyWoz/YOP+uir7fL7cNvyU3k3k3SmPXfTP2l5Xk+zG1389LwAAAAAAAAAAAAAAAAAAADLwC5VgPc0WOOAbAAAAAElFTkSuQmCC>
 </h4>  
 
 <label for="Front">Frontend</label>
