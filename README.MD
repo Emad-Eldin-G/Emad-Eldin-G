@@ -31,7 +31,7 @@ Currently working for a web startup called: @Computerizer
 <h4 id="Devops">
 <img width ='40px' unselectable='True' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'>
 <img width ='40px' unselectable='True' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
-<img width ='40px' unselectable='True' src ='https://oneuptime.com/img/sentry.svg'>
+<img width ='40px' unselectable='True' src ='https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AJenkins_logo.svg&psig=AOvVaw375BtCQZ8rl8NLAbws9yMm&ust=1654386796632000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCICX0Z29kvgCFQAAAAAdAAAAABAD'>
 <img width ='40px' unselectable='True' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png'>
 <img width ='37px' unselectable='True' src ='https://avatars0.githubusercontent.com/u/983927?v=3&s=400'>
 </h4>
