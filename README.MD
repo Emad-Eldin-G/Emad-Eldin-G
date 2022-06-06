@@ -11,7 +11,7 @@ Currently working for a web startup called: @Computerizer
 <label for="Back">Backend</label>
 <h4 id="Back">
 </h4>  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <label for="Devops">DevOps</label>
 <h4 id="Devops">
