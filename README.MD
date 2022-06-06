@@ -11,7 +11,7 @@ Currently working for a web startup called: @Computerizer
 [![Backend](https://skillicons.dev/icons?i=python,django,postgres,nginx)](https://skillicons.dev)
 
 ## DevOps   
-[![Backend](https://skillicons.dev/icons?i=docker,git,jenkins,selenium)](https://skillicons.dev) [![Backend](https://avatars0.githubusercontent.com/u/983927?v=3&s=400)]()
+[![Backend](https://skillicons.dev/icons?i=docker,git,jenkins,selenium)](https://skillicons.dev) [![Backend](https://avatars0.githubusercontent.com/u/983927?v=3&s=40)]()
 
 ## Frontend   
 [![Backend](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
