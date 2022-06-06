@@ -10,6 +10,12 @@ Currently working for a web startup called: @Computerizer
 ## Backend   
 [![Backend](https://skillicons.dev/icons?i=python,django,postgres,nginx)](https://skillicons.dev)
 
+## DevOps   
+[![Backend](https://skillicons.dev/icons?i=python,django,postgres,nginx)](https://skillicons.dev)
+
+## Frontend   
+[![Backend](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+
 <label for="Devops">DevOps</label>
 <h4 id="Devops">
 <img width ='40px' unselectable='True' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'>
