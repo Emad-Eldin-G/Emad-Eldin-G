@@ -24,7 +24,7 @@ Currently working for a web startup called: @Computerizer
 <img width ='40px' unselectable='True' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png'>
 <img width ='35px' unselectable='True' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png'>
 <img width ='37px' unselectable='True' src ='https://avatars0.githubusercontent.com/u/983927?v=3&s=400'>
-<img width ='37px' unselectable='True' src ='https://avatars0.githubusercontent.com/u/983927?v=3&s=400'>
+<img width ='37px' unselectable='True' src ='https://avatars.githubusercontent.com/u/44036562?s=280&v=4'>
 </h4>
 
 <label for="Front">Frontend</label>
