@@ -10,8 +10,8 @@ Currently working for a web startup called: @Computerizer
 <h2>Skills</h2>
 <label for="Back">Backend</label>
 <h4 id="Back">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </h4>  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <label for="Devops">DevOps</label>
 <h4 id="Devops">
