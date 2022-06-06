@@ -10,11 +10,7 @@ Currently working for a web startup called: @Computerizer
 <h2>Skills</h2>
 <label for="Back">Backend</label>
 <h4 id="Back">
-<img width ='40px' unselectable='True' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg' > 
-<img width ='40px' unselectable='True' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'>
-<img width ='40px' unselectable='True' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg'>
-<img width ='40px' unselectable='True' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'>
-<img width ='60px' unselectable='True' src ='https://cdn.freebiesupply.com/logos/large/2x/gunicorn-logo-png-transparent.png'>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </h4>  
 
 <label for="Devops">DevOps</label>
