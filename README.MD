@@ -7,7 +7,7 @@ Currently working for a web startup called: @Computerizer
 
 
 
-##Backend 
+## Backend   
 [![Backend](https://skillicons.dev/icons?i=python,django,postgres,nginx)](https://skillicons.dev)
 
 <label for="Devops">DevOps</label>
