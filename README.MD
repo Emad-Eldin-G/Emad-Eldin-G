@@ -3,15 +3,12 @@
 Specializing in REST-API and Database design  
 
 Currently working for a web startup called: @Computerizer
-[![Backend](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 
-<h2>Skills</h2>
-<label for="Back">Backend</label>
-<h4 id="Back">
-</h4>  
-[![Backend](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+##Backend 
+[![Backend](https://skillicons.dev/icons?i=python,django,postgres,nginx)](https://skillicons.dev)
 
 <label for="Devops">DevOps</label>
 <h4 id="Devops">
