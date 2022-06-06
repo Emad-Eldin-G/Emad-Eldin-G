@@ -3,7 +3,7 @@
 Specializing in REST-API and Database design  
 
 Currently working for a web startup called: @Computerizer
-
+[![Backend](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
 
