@@ -9,7 +9,7 @@ Currently working for a web startup called: @Computerizer
 
 ## DevOps   
 [![Devops](https://skillicons.dev/icons?i=docker,git,jenkins,selenium)](https://skillicons.dev) 
-[![DevOps](https://skillicons.dev/icons?i=docker,git,jenkins,selenium)](https://skillicons.dev)
+
 
 ## Frontend   
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
