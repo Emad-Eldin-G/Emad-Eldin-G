@@ -18,6 +18,12 @@ Currently working for a web startup called: @Computerizer
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emad-Eldin-G&repo=Amazon-Selenium-Web-Scraper&theme=vue-dark)](https://github.com/Emad-Eldin-G/Amazon-Selenium-Web-Scraper)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Emad-Eldin-G&repo=Cars-Heaven&theme=vue-dark)](https://github.com/Emad-Eldin-G/Cars-Heaven)
 
+<a href="https://github.com/Emad-Eldin-G/Amazon-Selenium-Web-Scraper">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Emad-Eldin-G&repo=Amazon-Selenium-Web-Scraper&theme=vue-dark" />
+</a>
+<a href="https://github.com/Emad-Eldin-G/Cars-Heaven">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Emad-Eldin-G&repo=Cars-Heaven&theme=vue-dark" />
+</a>
 
 ## Contact Me
 
