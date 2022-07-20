@@ -16,7 +16,7 @@ Currently working for a web startup called: @Computerizer
 
 ## Currently working on
 <a href="https://github.com/Computerizer/BACKEND/tree/PARTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Emad-Eldin-G&repo=BACKEND&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Computerizer&repo=BACKEND&theme=vue-dark" />
 </a>
 <a href="https://github.com/Emad-Eldin-G/Cars-Heaven">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Emad-Eldin-G&repo=Cars-Heaven&theme=vue-dark" />
