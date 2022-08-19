@@ -14,11 +14,6 @@ Currently working for a web startup called: @Computerizer
 ## Frontend   
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev) 
 
-## Currently working on
-
-<a href="https://github.com/Emad-Eldin-G/Cars-Heaven">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Emad-Eldin-G&repo=Cars-Heaven&theme=vue-dark" />
-</a>
 
 ## Contact Me
 
