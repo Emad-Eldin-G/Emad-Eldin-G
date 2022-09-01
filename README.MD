@@ -14,6 +14,10 @@ Currently working for a web startup called: @Computerizer
 ## Frontend   
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev) 
 
+## Data Visulization  
+[![Frontend](https://skillicons.dev/icons?i=excel,tableu)](https://skillicons.dev) 
+
+
 
 ## Contact Me
 
