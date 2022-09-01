@@ -5,7 +5,8 @@ Currently working for a web startup called: @Computerizer
 
 
 ## Backend   
-[![Backend](https://skillicons.dev/icons?i=python,django,postgres,sqlite,nginx)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=python,django,postgres,sqlite,nginx)](https://skillicons.dev)<img src='https://miro.medium.com/max/512/0*Nn7jvZ2XB2KcKqUC.png' width='48'>
+
 
 ## DevOps   
 [![Devops](https://skillicons.dev/icons?i=docker,git,selenium,vscode,linux)](https://skillicons.dev) &nbsp;<img src='https://avatars.githubusercontent.com/u/54465427?v=4' width='48'>
