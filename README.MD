@@ -26,6 +26,6 @@ Currently working for a web startup called: @Computerizer
 Email: <omda.g@outlook.com>  
 Linkedin: <https://www.linkedin.com/in/emad-gasser/>  
 Twitter: <https://twitter.com/EmadEldin_G/>  
-Resume: <https://rb.gy/uqhbmt>
+Resume: <https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:796cf2b4-9595-4e9c-9da2-d0347d31feaa>
 
 
