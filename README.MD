@@ -9,14 +9,14 @@ Currently working for a web startup called: @Computerizer
 
 
 ## DevOps   
-[![Devops](https://skillicons.dev/icons?i=docker,git,selenium,vscode,linux)](https://skillicons.dev) &nbsp;<img src='https://avatars.githubusercontent.com/u/54465427?v=4' width='48'><img src='https://cdn.auth0.com/marketplace/catalog/content/assets/creators/digitalocean/digitalocean-avatar.png' width='48' style="border-radius: 50%">
+[![Devops](https://skillicons.dev/icons?i=docker,git,selenium,vscode,linux)](https://skillicons.dev) &nbsp;<img src='https://avatars.githubusercontent.com/u/54465427?v=4' width='48'>&nbsp<img src='https://cdn.auth0.com/marketplace/catalog/content/assets/creators/digitalocean/digitalocean-avatar.png' width='48' style="border-radius: 50%">
 
 
 ## Frontend   
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev) 
 
 ## Data Visulization  
-<img src='https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png' width='48'><img src='https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J' width='53'>
+<img src='https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png' width='48'>&nbsp<img src='https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J' width='53'>
 
 
 
