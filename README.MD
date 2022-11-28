@@ -16,7 +16,7 @@ Currently working for a web startup called: @Computerizer
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev) 
 
 ## Data Visulization  
-[![Data Visulization](https://skillicons.dev/icons?i=R)](https://skillicons.dev) <img src='https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png' width='48'><img src='https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J' width='53'>
+[![Data Visulization](https://skillicons.dev/icons?i=r)](https://skillicons.dev) <img src='https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png' width='48'><img src='https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J' width='53'>
 
 
 
