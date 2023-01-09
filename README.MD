@@ -1,7 +1,7 @@
 # Backend Web-Dev
 Currently working for a web startup called: @Computerizer
 
-
+<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fstormotion.io%2Fblog%2Ffull-time-developer-vs-freelancer-vs-software-development-company%2F&psig=AOvVaw0E1JExjFL9_tvoOd-q51_u&ust=1673371540085000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDiqfOAu_wCFQAAAAAdAAAAABAI'>
 
 
 ## Backend   
