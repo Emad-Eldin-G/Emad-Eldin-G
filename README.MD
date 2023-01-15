@@ -1,5 +1,5 @@
 # Software Developer
-Currently working for a web startup called: @Computerizer
+Co-founder and Backend Developer: @Computerizer
 
 <img src='https://miro.medium.com/max/720/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif' width=320>
 
