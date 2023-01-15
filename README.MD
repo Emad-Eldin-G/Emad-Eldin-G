@@ -1,7 +1,7 @@
 # Backend Web-Dev
 Currently working for a web startup called: @Computerizer
 
-<img src='https://miro.medium.com/max/720/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif' width=300>
+<img src='https://miro.medium.com/max/720/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif' width=320>
 
 
 ## Backend   
