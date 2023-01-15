@@ -14,7 +14,7 @@ Co-founder and Backend Developer: @Computerizer
 [![Devops](https://skillicons.dev/icons?i=docker,git,selenium,aws,vscode)](https://skillicons.dev) &nbsp;<img src='https://avatars.githubusercontent.com/u/54465427?v=4' width='48'>  
 
 ## Data Visulization  
-[![Data Visulization](https://skillicons.dev/icons?i=r,matplotlib)](https://skillicons.dev) <img src='https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png' width='48'><img src='https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J' width='53'>  
+[![Data Visulization](https://skillicons.dev/icons?i=r)](https://skillicons.dev) <img src='https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png' width='48'><img src='https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J' width='53'>  
 
 
 
