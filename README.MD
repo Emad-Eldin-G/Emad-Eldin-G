@@ -1,6 +1,7 @@
 # Software Developer
 Co-founder and Backend Developer: @Computerizer
 
+![](https://github-readme-stats.vercel.app/api?username=Emad-Eldin-G&hide=contribs&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Backend   
 [![Backend](https://skillicons.dev/icons?i=python,django,postgres,sqlite)](https://skillicons.dev)<img src='https://miro.medium.com/max/512/0*Nn7jvZ2XB2KcKqUC.png' width='48'>
