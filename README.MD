@@ -24,7 +24,8 @@ Email: <omda.g@outlook.com>
 Linkedin: <https://www.linkedin.com/in/emad-gasser/>  
 Twitter: <https://twitter.com/EmadEldin_G/>  
 Resume: <https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:ce927bce-1ffa-4626-a2b1-9ca14dabfc93>  
-<br>
+<br>  
+[![](https://github-readme-stats.vercel.app/api?username=Emad-Eldin-G)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=Emad-Eldin-G)
 
 
