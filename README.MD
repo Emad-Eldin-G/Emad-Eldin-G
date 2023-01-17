@@ -1,7 +1,7 @@
 # Software Developer
 Co-founder and Backend Developer: @Computerizer
 
-<img src='https://miro.medium.com/max/720/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif' width=320>
+[![](https://github-readme-stats.vercel.app/api?username=Emad-Eldin-G)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Backend   
@@ -25,7 +25,6 @@ Linkedin: <https://www.linkedin.com/in/emad-gasser/>
 Twitter: <https://twitter.com/EmadEldin_G/>  
 Resume: <https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:ce927bce-1ffa-4626-a2b1-9ca14dabfc93>  
 <br>  
-[![](https://github-readme-stats.vercel.app/api?username=Emad-Eldin-G)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=Emad-Eldin-G)
 
 
