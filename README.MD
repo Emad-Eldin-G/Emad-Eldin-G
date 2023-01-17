@@ -18,7 +18,7 @@ Co-founder and Backend Developer: @Computerizer
 
 
 
-## Contact Me <img src='https://github.com/Emad-Eldin-G/Emad-Eldin-G/blob/main/AWS%20picture.JPEG' width='10'>
+## Contact Me <img src='https://github.com/Emad-Eldin-G/Emad-Eldin-G/blob/main/AWS%20picture.JPEG' width='20'>
 
 Email: <omda.g@outlook.com>  
 Linkedin: <https://www.linkedin.com/in/emad-gasser/>  
