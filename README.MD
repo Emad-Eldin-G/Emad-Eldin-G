@@ -23,7 +23,7 @@ Co-founder and Backend Developer: @Computerizer
 Email: <omda.g@outlook.com>  
 Linkedin: <https://www.linkedin.com/in/emad-gasser/>  
 Twitter: <https://twitter.com/EmadEldin_G/>  
-<br>  
+  
 ![](https://komarev.com/ghpvc/?username=Emad-Eldin-G)
 
 
