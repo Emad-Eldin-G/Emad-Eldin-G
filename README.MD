@@ -3,7 +3,7 @@ Co-founder and Backend Developer: @Computerizer
 
 
 ## Backend   
-[![Backend](https://skillicons.dev/icons?i=python,django,postgres,graphql)](https://skillicons.dev)<img src='https://www.django-rest-framework.org/img/logo.png' width='150'>
+[![Backend](https://skillicons.dev/icons?i=python,django,postgres,graphql)](https://skillicons.dev)<img src='https://www.django-rest-framework.org/img/logo.png' width='130'>
 
 ## Frontend   
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,scss,bootstrap)](https://skillicons.dev) 
