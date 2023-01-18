@@ -1,7 +1,7 @@
 # Software Developer
 Co-founder and Backend Developer: @Computerizer  
 
-[![](https://github-readme-stats.vercel.app/api?username=Emad-Eldin-G&hide=contribs&theme=gotham)]
+
 
 
 ## Backend   
