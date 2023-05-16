@@ -7,9 +7,6 @@ Co-founder and Backend Developer: @Computerizer
 ## Backend   
 [![Backend](https://skillicons.dev/icons?i=python,django,postgres,mysql,redis,graphql)](https://skillicons.dev)
 
-## Frontend   
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev) 
-
 ## Other   
 [![Devops](https://skillicons.dev/icons?i=docker,git,selenium,aws,linux)](https://skillicons.dev)
 
