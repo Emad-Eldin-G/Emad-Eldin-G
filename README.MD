@@ -1,5 +1,5 @@
 # Software Developer
-Co-founder and Backend Developer: @Computerizer  
+Co-founder and Algorithm Lead @Computerizer  
 
 
 ## Contact 
