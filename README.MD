@@ -1,5 +1,5 @@
 # Software Engineer
-Co-founder and Technical Lead @Computerizer 
+Co-founder and Technical Lead @Computerizer   
 Computer Science @University of Leicester
 
 ## Contact 
