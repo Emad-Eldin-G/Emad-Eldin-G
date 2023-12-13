@@ -1,8 +1,8 @@
-# Software Engineer
+#Software Engineer
 Co-founder and Technical Lead @Computerizer   
 Computer Science @University of Leicester
 
-## Contact 
+##Contact 
 
 Email: <omda.g@outlook.com>  
 Linkedin: <https://www.linkedin.com/in/emad-gasser/>  
