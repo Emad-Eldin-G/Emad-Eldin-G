@@ -6,6 +6,6 @@
 ## Experience
 - Software Engineer Intern - [Blackstone](https://www.blackstone.com/) - Summer 2025
 - Software Engineer Intern - [Fidelity Investments](https://www.fidelity.com/about-fidelity/our-company) - Summer 2024
-- Software Engineer Intern - [Janah Cycle](https://www.janahcycle.org/)
+- Software Engineer Intern - [Janah Cycle](https://www.janahcycle.org/) - Offycle 2024
 
 ![](https://komarev.com/ghpvc/?username=Emad-Eldin-G) 
