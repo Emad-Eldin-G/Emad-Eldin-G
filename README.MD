@@ -1,7 +1,6 @@
 # Software Engineer
 
-"Instead of learning new things, learn how to learn new things."  
-~ my mindset in a nutshell, if it makes sense
+Distributed Systems, AI/ML, Fintech, and Cloud
 
 ## Experience
 - Software Engineer Summer Analyst - [Blackstone](https://www.blackstone.com/) - Summer 2025
