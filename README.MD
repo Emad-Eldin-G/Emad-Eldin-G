@@ -1,6 +1,5 @@
 # Software Engineer
 
-Distributed Systems, AI/ML, Fintech, and Cloud
 
 ## Experience
 - Software Engineer Summer Analyst - [Blackstone](https://www.blackstone.com/) - Summer 2025
