@@ -1,5 +1,6 @@
 # Software Engineer and Quant
 
+***In relentless pursuit of excellence***
 
 ## Experience
 - Software Engineer Summer Analyst @ [Blackstone](https://www.blackstone.com/) - Summer 2025
