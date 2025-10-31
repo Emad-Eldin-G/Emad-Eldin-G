@@ -1,7 +1,5 @@
 # Software Engineer and Quant
 
-***In relentless pursuit of excellence***
-
 ## Experience
 - Software Engineer Summer Analyst @ [Blackstone](https://www.blackstone.com/) - Summer 2025
 - Software Engineer Summer Analyst @ [Fidelity Investments](https://www.fidelity.com/about-fidelity/our-company) - Summer 2024
