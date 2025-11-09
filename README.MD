@@ -1,15 +1,15 @@
 # Software Engineer
 <a href="https://cplusplus.com/">
-    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=cplusplus&logoColor=ffffff" alt="C++" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
 </a>
 <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
 </a>
 <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
 </a>
 <a href="#">
-    <img src="https://img.shields.io/badge/Running%20on-Coffee-brown?style=flat-square&logo=buymeacoffee&logoColor=ffffff" alt="Coffee Love" />
+    <img src="https://img.shields.io/badge/Coffee-%23b87333?style=flat&logo=buymeacoffee&logoColor=white" alt="Coffee" />
 </a>
 
 ## Experience
