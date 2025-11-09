@@ -1,10 +1,11 @@
 # Software Engineer
 <img src="https://img.shields.io/badge/C++-gray?style=flat&logo=cplusplus&logoColor=FFFFFF" alt="C++" />&nbsp;
 <img src="https://img.shields.io/badge/Python-gray?style=flat&logo=python&logoColor=FFFFFF" alt="Python" />&nbsp;
-<img src="https://img.shields.io/badge/C%23-gray?style=flat&logo=csharp&logoColor=FFFFFF" alt="C#" />&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-gray?style=flat&logo=typescript&logoColor=FFFFFF" alt="TypeScript" />&nbsp;
-<img src="https://img.shields.io/badge/SQL-gray?style=flat&logo=postgresql&logoColor=FFFFFF" alt="SQL" />
 <img src="https://img.shields.io/badge/Coffee-gray?style=flat&logo=buymeacoffee&logoColor=FFFFFF" alt="Coffee" />&nbsp;
+<img src="https://img.shields.io/badge/C%23-gray?style=flat&logo=dotnet&logoColor=FFFFFF" alt="C#" />&nbsp;
+<img src="https://img.shields.io/badge/SQL-gray?style=flat&logo=database&logoColor=FFFFFF" alt="SQL" />
+
 
 ## Experience
 - Software Engineer Summer Analyst @ [**Blackstone**](https://www.blackstone.com/) - Summer 2025   
