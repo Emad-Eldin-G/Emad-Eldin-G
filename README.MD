@@ -3,10 +3,13 @@
     <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=cplusplus&logoColor=ffffff" alt="C++" />
 </a>
 <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=python&logoColor=00ff00" alt="Python" />
+    <img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
 </a>
-<a href="">
-    <img src="https://img.shields.io/badge/Running on-Coffee-brown" alt="Coffee Love" />
+<a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" />
+</a>
+<a href="#">
+    <img src="https://img.shields.io/badge/Running%20on-Coffee-brown?style=flat-square&logo=buymeacoffee&logoColor=ffffff" alt="Coffee Love" />
 </a>
 
 ## Experience
