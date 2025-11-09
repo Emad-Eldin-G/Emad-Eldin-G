@@ -2,7 +2,7 @@
 <a href="https://cplusplus.com/">
     <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=cplusplus&logoColor=ffffff" alt="C++" />
 </a>
-<a href="https://cplusplus.com/">
+<a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=python&logoColor=00ff00" alt="Python" />
 </a>
 <a href="">
