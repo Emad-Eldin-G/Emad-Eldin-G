@@ -1,4 +1,4 @@
-# Software Engineer and Quant ☕️
+# Software Engineer and Quant
 
 
 # Experience
