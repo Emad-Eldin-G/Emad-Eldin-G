@@ -1,6 +1,5 @@
 # Software Engineer and Quant
 Lifelong learner, in constant pursuit of excellence.  
-Powered by white chocolate matcha from Blank Street (**with oat milk**).
 
 # Experience
 - Software Engineer Intern @ **Blackstone** - Summer 2025   
