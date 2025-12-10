@@ -1,6 +1,6 @@
 # Software Engineer and Quant
-Lifelong learner, in pursuit of excellence.  
-I enjoy software engineering, technology, finance, business, and white chocolate matcha from blank street (with oat milk)
+Lifelong learner, in constant pursuit of excellence.  
+I enjoy software engineering, technology, finance, and white chocolate matcha from Blank Street (with oat milk).
 
 # Experience
 - Software Engineer Intern @ **Blackstone** - Summer 2025   
