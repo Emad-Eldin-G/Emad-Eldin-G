@@ -1,13 +1,16 @@
 # Software Engineer and Quant
 Lifelong learner, in constant pursuit of excellence.  
-   __     
- .:--.'.  
-/ |   \ | 
-`" __ | | 
- .'.''| | 
-/ /   | |_ 
-\ \._,\ '/ 
- `--'  `"  
+<pre>
+   __
+ .:--.'.
+ / |   \ |
+ `" __ | |
+  .'.''| |
+ / /   | |_
+ \ \._,\ '/
+  `--'  `"
+</pre>
+
 
 Résumé available on request.
   
