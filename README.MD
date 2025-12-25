@@ -3,15 +3,15 @@ Lifelong learner, in constant pursuit of excellence.
 
            
            
-                    
-    __       
- .:--.'.     
-/ |   \ |    
-`" __ | |    
- .'.''| |    
-/ /   | |_   
-\ \._,\ '/   
- `--'  `"    
+   __     
+ .:--.'.  
+/ |   \ | 
+`" __ | | 
+ .'.''| | 
+/ /   | |_ 
+\ \._,\ '/ 
+ `--'  `" 
+
   
 
 Résumé available on request.
