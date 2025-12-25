@@ -2,9 +2,10 @@
 Lifelong learner, in constant pursuit of excellence.  
 
 # Experience
-- Software Engineer Intern @ **Blackstone** - Summer 2025   
-- Software Engineer Intern @ **Fidelity Investments** - Summer 2024   
-- Software Engineer Intern @ **Janah Cycle** (Startup) - OffCycle 2024   
+- Quant Strategist   @  **Soon** - Summer 2026   
+- Software Engineer  @  **Blackstone** - Summer 2025   
+- Software Engineer  @  **Fidelity Investments** - Summer 2024   
+- Software Engineer  @  **Janah Cycle** (Startup) - OffCycle 2024   
 
 Résumé available on request.
   
