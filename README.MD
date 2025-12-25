@@ -1,8 +1,5 @@
 # Software Engineer and Quant
 Lifelong learner, in constant pursuit of excellence.  
-
-           
-           
    __     
  .:--.'.  
 / |   \ | 
@@ -10,9 +7,7 @@ Lifelong learner, in constant pursuit of excellence.
  .'.''| | 
 / /   | |_ 
 \ \._,\ '/ 
- `--'  `" 
-
-  
+ `--'  `"  
 
 Résumé available on request.
   
